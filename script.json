@@ -1,0 +1,94 @@
+[
+    {
+        "selectors": [],
+        "type": "navigate",
+        "url": "https://login-ibqwjb-dev1.fa.ocs.oraclecloud.com/oam/server/obrareq.cgi?encquery%3DOJOltgKZmQg3RK7%2B46ose1DrrwqlRzdpXCW9CNPgl%2Be8EOd4kVmHFUvGbT61Df6jo9CqKoGIM0iiId34Ln4eZ0fisd9v6bsi0X5kXTHuODtqmdB1i9bL2FCAdgLaHw%2BKccbipTAl9pAcmGyo03v53WYqW8ds1pOiJsMd8nFJaxUns2Kqs38tqA22%2FVInKBO79eTRxVGyTHEOrKGafRRUnnfNp632ggqyYIzKjjg9og9CLVMUDTEu5Bt1wd5t8b1VErk8EiGFPddOa3ch4WOFFpqmmKd%2F4NLlzYtpPRQLCynvGwvj2GFxIlXF1g0jrAnbUzbksWzxVU%2BLDVCY3AxjLI%2BlHEFHky2oLJKDkxxiAjdoUAC%2FpSFOqTUnT1Q53BsYEEiKk1t82EzpB%2Fk0IAB3QeXF18tydzgUsZEfIRG5jGUiPxWCsKG9XJYYEoxQSgCP0LnnaHGkta7xWWVdy8ibjhu9XsiLu7EMQp8%2BdCYUQPyyhEWt80P3PcSistQ5EmT6vycrpjnJufIe6DnQI%2F4DcEVf%2FflokmRQRDyUsECVxQGAkuPu2wmow%2BNzBofHOK0g3UwcyLoFCnDZzyiz3ZAAmN2j7NOQbKzbehmSM9L%2FhYkEfkXkpamGclzkzYCmPr5weQJV8A9q0Wtz%2FtX9b4uRHoBg7fncT3RYFoy3mdBSZX2rLqB3TeXwWB5sHoI%2FR9BqQfsBmuc0fG8VADsC%2B1dSGZ4F50GJG3xX%2F8djHaDCxDvwgaPe%2BEftyptFYF7nragIRCFaSFFjyDCJqaPaMR8X0Hs4IPLEQpUEJddJMTXl3cUpYcs3uwWgzOAOyMvrQJgk7WNE3Q6%2BIC%2Bf99TVj8D3rtZELbVDRC7fNiqalXFtb%2B3FSb4ieI%2BdIYV511EaiyuQdQOfeHbXgyVOuGnjlPB1IhPi1zRQaAGbs2KhNHY2SFH2SdQc5E5LxppWqc7mxlKduu1RwG2viZnvsiYApbvOg3Z2iu2RU5%2FEvaBncYLZgFhIIg2IX9mjcFMJhiPmSVQJgrB2K9dlk79lptVLpi1TIum2xBIUOjv9LAaP%2B%2FfKOTRVnR6CJ0s%2FSHGojRBdff%2FeA%2FH%2B27zKrr5Hpi24AJpNiNT7thXNh2m%2F4G%2BkAzra6lP3bEIzpQ4WDSB4SGl7n7ojpHK28i1wIUFemaJDwslGQ8F1%2BBatNrLoSZdMQr0FoUAyzcyVNrMZaRRmWHiYXHs1yeMK3T5vUtz%2FIQ8oHnscc0mlgnTg6C8rSIns0UJBTlNbzXUO7KsCbwztMgiIckRqB3%2FUTxXBsmqIOYhPE4k0Hnn9vrvVzS43jrXbrgxMqjdWlrOzdIznl8hO970eV26diB%2FAZXPxudPOFW5XLUxrDug%2FW%2FaRfQd0Mrt%2FINoJS3fos4MyLpt3CC7sO%2Fgd%2Bl5t3xhDA%2Bd5ppqyOdpNZPIWaHp%2B7Ismv0oBGx49hndvIFVlxOcOgSDyxaqv4OwcUdY%2Byoiap%2FZHijwY4zHaDGa0j25B4t6n%2B6Cgho6YXYoWRemsxJ5wFXF9tTJ9aRND%2F6qokTnNMBOQJxMcvQvolNs0I7RyMTCAvmJkmen25x6rdp%2B5s%2B0RIxZHfMDxxC0eYX6MK8bFWYVMNH4o0o4UNDhq6KkAk%2BWqcxj%2B2l7S45ZzEHZS7SWEfqW0r9%2FAwl46E%2FOP41CvNuLT2r%2Fo4vKSmLGGgg%3D%3D%20agentid%3DOraFusionApp_11AG%20ver%3D1%20crmethod%3D2%26cksum%3D5e296935a80ac28ca332232eed688be5f86b5fbc&ECID-Context=1.006IOI2SbuJ1baTay9edMG00Eru%5E0002H%5E%3BkXjE"
+    },
+    {
+        "selectors": [
+            "#userid",
+            "aria/User ID",
+            "xpath//div[5]/form[1]/div[2]/input[1]"
+        ],
+        "target": "#userid",
+        "type": "click"
+    },
+    {
+        "selectors": [
+            "#userid",
+            "aria/User ID",
+            "xpath//div[5]/form[1]/div[2]/input[1]"
+        ],
+        "target": "#userid",
+        "type": "change",
+        "value": "mgrc-integration"
+    },
+    {
+        "selectors": [
+            "#password",
+            "aria/Password",
+            "xpath//div[5]/form[1]/div[2]/input[2]"
+        ],
+        "target": "#password",
+        "type": "click"
+    },
+    {
+        "selectors": [
+            "#password",
+            "aria/Password",
+            "xpath//div[5]/form[1]/div[2]/input[2]"
+        ],
+        "target": "#password",
+        "type": "change",
+        "value": "ATOM#integrate1"
+    },
+    {
+        "selectors": [
+            "#btnActive",
+            "text/Sign In",
+            "xpath//div[5]/form[1]/div[2]/div[4]/button[1]"
+        ],
+        "target": "#btnActive",
+        "type": "click"
+    },
+    {
+        "selectors": [
+            "#pt1:_UIShome::icon",
+            "aria/Home",
+            "text/Home",
+            "xpath//tr[1]/td[2]/div[1]/div[1]/a[1]/svg[1]"
+        ],
+        "target": "#pt1:_UIShome::icon",
+        "type": "click"
+    },
+    {
+        "type": "click",
+        "target": "div.atk-row.x1a > div:nth-of-type(1) > div:nth-of-type(1) > div.flat-tabs-overflow-right.svg-body.svg-solid:nth-of-type(2) > svg[data-icon=\"navi_caretright\"]",
+        "selectors": [
+            "div.atk-row.x1a > div:nth-of-type(1) > div:nth-of-type(1) > div.flat-tabs-overflow-right.svg-body.svg-solid:nth-of-type(2) > svg[data-icon=\"navi_caretright\"]",
+            "svg[data-icon=\"navi_caretright\"]",
+            "div.flat-tabs-overflow-right.svg-body.svg-solid:nth-of-type(2)",
+            "div:nth-of-type(1)",
+            "div.atk-row.x1a",
+            "xpath//div[1]/div[1]/div[1]/div[1]/div[2]/svg[1]"
+        ]
+    },
+    {
+        "type": "click",
+        "target": "#groupNode_payables",
+        "selectors": [
+            "#groupNode_payables",
+            "text/Payables",
+            "xpath//div[1]/div[1]/div[2]/div[1]/div[14]/a[1]"
+        ]
+    },
+    {
+        "type": "click",
+        "target": "#itemNode_payables_payables_invoices_0",
+        "selectors": [
+            "#itemNode_payables_payables_invoices_0",
+            "text/Invoices",
+            "xpath//div[1]/div[2]/div[2]/div[2]/div[1]/a[1]"
+        ]
+    }
+]
